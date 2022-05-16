@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/lesson1.rpy", line 108: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                    renpy.say("cyberdi, "Your password is too short. It should be at least 12 characters long.")
+
+Ren'Py Version: Ren'Py 7.4.11.2266u
+Wed Apr 27 00:50:15 2022

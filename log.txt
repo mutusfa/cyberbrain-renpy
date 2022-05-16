@@ -1,0 +1,289 @@
+Sun May  8 21:35:15 2022
+Linux-5.15.37-1-lts-x86_64-with-glibc2.2.5
+Ren'Py 7.4.11.2266u
+ 
+
+Bootstrap to the start of init.init took 0.06s
+Early init took 0.00s
+Loader init took 0.00s
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_errorhandling.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_shaders.rpymc'
+Loading error handling took 0.05s
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/000atl.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/000namespaces.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/000statements.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/000window.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00accessibility.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00achievement.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_audio.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_control.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_data.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_file.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_menu.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00action_other.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00audio.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00barvalues.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00build.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00compat.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00console.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00defaults.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00definitions.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00director.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00gallery.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00gamemenu.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00gamepad.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00gltest.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00gui.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00iap.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00icon.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00iconbutton.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00images.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00inputvalues.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00keymap.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00layeredimage.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00layout.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00library.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00matrixcolor.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00matrixtransform.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00mixers.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00mousedisplayable.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00musicroom.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00nvl_mode.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00obsolete.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00performance.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00placeholder.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00preferences.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00shaders.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00sideimage.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00splines.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00start.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00style.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00stylepreferences.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00themes.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00touchkeyboard.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00updater.rpyc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/00voice.rpyc'
+Loading script took 0.83s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/screen_preferences.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/classic_joystick_preferences.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/screen_main_menu.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/classic_navigation.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/screen_yesno_prompt.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_layout/screen_load_save.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_developer/developer.rpymc'
+Traceback (most recent call last):
+  File "/usr/share/renpy/renpy/script.py", line 636, in load_file
+    with open(rpycfn, "wb") as f:
+IOError: [Errno 13] Permission denied: '/usr/share/renpy/renpy/common/_developer/inspector.rpymc'
+Running init code took 0.07s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/julius/.renpy/backups/Cyberbrain':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s

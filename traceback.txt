@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/lesson1.rpy", line 103, in script
+    python:
+  File "game/lesson1.rpy", line 108, in <module>
+    cyberdi("Your password is too short. It should be at least 12 characters long.")
+NameError: name 'cyberdi' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/lesson1.rpy", line 103, in script
+    python:
+  File "/usr/share/renpy/renpy/ast.py", line 928, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/usr/share/renpy/renpy/python.py", line 2245, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/lesson1.rpy", line 108, in <module>
+    cyberdi("Your password is too short. It should be at least 12 characters long.")
+NameError: name 'cyberdi' is not defined
+
+Linux-5.15.26-1-lts-x86_64-with-glibc2.2.5
+Ren'Py 7.4.11.2266u
+Cyberbrain slides 1.0
+Wed Apr 27 00:51:26 2022
